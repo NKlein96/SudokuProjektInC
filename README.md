@@ -54,12 +54,13 @@
 	http://codereview.stackexchange.com/questions/37430/sudoku-solver-in-c
 	
 	8: Qualitätszielbestimmung
+	- Nils
 	
 	9: Globale Testfälle
 	- Gereon 
 		
 	10: Entwicklungsumgebung
-	-  
+	- Nils
 	
 	11: Ergänzungen
-	
+	- Nils
